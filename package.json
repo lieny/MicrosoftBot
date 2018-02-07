@@ -1,0 +1,31 @@
+{
+  "name": "nightowlbot",
+  "version": "1.0.0",
+  "description": "Creating a bot with Microsoft Bot Framework. trying out Azure bot service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lieny/MicrosoftBot.git"
+  },
+  "keywords": [
+    "bot",
+    "Azure",
+    "bot",
+    "Microsoft",
+    "Bot",
+    "Framework"
+  ],
+  "author": "Vicky Lien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lieny/MicrosoftBot/issues"
+  },
+  "homepage": "https://github.com/lieny/MicrosoftBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
